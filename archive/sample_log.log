@@ -1,0 +1,28 @@
+2026-04-28 00:05:33 ERROR Connection timed out
+2026-04-28 00:15:22 ERROR File not found
+2026-04-28 00:22:10 ERROR Permission denied
+2026-04-28 00:40:55 Failed to connect to database
+2026-04-28 00:45:12 ERROR Connection timed out
+2026-04-28 01:00:01 ERROR Permission denied
+2026-04-28 01:05:44 ERROR Disk I/O error
+2026-04-28 01:20:11 ERROR File not found
+2026-04-28 01:25:44 Failed authentication attempt
+2026-04-28 01:30:01 ERROR Out of memory
+2026-04-28 01:40:33 ERROR Connection timed out
+2026-04-28 02:00:01 ERROR Disk I/O error
+2026-04-28 02:15:44 ERROR File not found
+2026-04-28 02:20:11 Failed to mount volume
+2026-04-28 02:25:33 ERROR Connection timed out
+2026-04-28 02:35:22 ERROR Permission denied
+2026-04-28 03:00:01 CRITICAL Disk space below threshold
+2026-04-28 03:05:22 ERROR Connection timed out
+2026-04-28 03:20:33 ERROR File not found
+2026-04-28 03:25:01 Failed to connect to database
+2026-04-28 03:30:22 ERROR Connection timed out
+2026-04-28 04:10:11 CRITICAL Database connection lost
+2026-04-28 04:15:33 ERROR Connection timed out
+2026-04-28 04:25:22 ERROR Disk I/O error
+2026-04-28 04:40:33 ERROR Permission denied
+2026-04-28 05:00:11 CRITICAL Memory usage exceeded 95%
+2026-04-28 05:05:33 ERROR Connection timed out
+2026-04-28 05:10:01 ERROR Out of memory
