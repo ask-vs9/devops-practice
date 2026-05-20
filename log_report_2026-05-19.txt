@@ -1,0 +1,23 @@
+=====================================
+       Daily Log Analysis Report
+=====================================
+Date of Analysis : 2026-05-19
+Log File         : archive/sample_log.log
+Total Lines      : 28
+Total Errors     : 25
+
+--- Top 5 Error Messages ---
+      8 Connection timed out 
+      4 Permission denied 
+      4 File not found 
+      3 Disk I/O error 
+      2 Out of memory 
+
+--- Critical Events ---
+Line 17:2026-04-28 03:00:01 CRITICAL Disk space below threshold
+Line 22:2026-04-28 04:10:11 CRITICAL Database connection lost
+Line 26:2026-04-28 05:00:11 CRITICAL Memory usage exceeded 95%
+
+=====================================
+Report generated on: Tue May 19 03:17:51 UTC 2026
+=====================================
